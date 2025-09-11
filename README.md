@@ -4,3 +4,5 @@
 [Руководство по настройке GitHub Actions](https://docs.github.com/en/actions/quickstart)
 
 ![CI](https://github.com/djedra/Http_1/actions/workflows/web.yml/badge.svg)
+
+Ссылка на [Github Pages](https://djedra.github.io/Http_1/)
